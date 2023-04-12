@@ -1,5 +1,9 @@
 <meta name="google-site-verification" content="tZgbB2s-hTI0IePQQRCjHqL_Vf0j_XJmehXAHJerrn4" />
 
+
+[![Build and deploy a container to an Azure Web App](https://github.com/Miguelzamora13/azure-powershell/actions/workflows/azure-container-webapp.yml/badge.svg)](https://github.com/Miguelzamora13/azure-powershell/actions/workflows/azure-container-webapp.yml)
+
+
 # ![AzureIcon] ![PowershellIcon] Microsoft Azure PowerShell
 
 This repository contains PowerShell cmdlets for developers and administrators to develop, deploy,
